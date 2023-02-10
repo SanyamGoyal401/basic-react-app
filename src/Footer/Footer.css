@@ -1,0 +1,22 @@
+.footer-container{
+    background-color: #282828;
+}
+.footer{
+    color: white;
+    width: 90%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    padding: 30px 50px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.flex-items{
+    flex-wrap: wrap;
+}
+
+.right-align{
+    text-align: right;
+}
